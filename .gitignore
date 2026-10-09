@@ -1,0 +1,11 @@
+# Foundry build artefacts
+out/
+cache/
+broadcast/
+
+# Local environment
+.env
+.env.*
+
+# Scratch space used only during development; never submitted
+test/scratch/
